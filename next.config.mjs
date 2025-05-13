@@ -11,11 +11,7 @@ const nextConfig = {
   images: {
     domains: ['images.unsplash.com'],
     unoptimized: true,
-  },
-  experimental: {
-    // Needed for proper hydration with next-themes
-    optimizePackageImports: ['next-themes'],
-  },
+  }
 }
 
 export default nextConfig

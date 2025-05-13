@@ -1,6 +1,6 @@
 "use client"
 
-import { ReactNode } from "react"
+import React, { ReactNode } from "react"
 import { usePathname } from "next/navigation"
 import { MobileNav } from "@/components/mobile-nav"
 import { useIsMobile } from "@/hooks/use-mobile"
