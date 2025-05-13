@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440" height="800" viewBox="0 0 1440 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="800" fill="#F5F8F5"/>
+  <path opacity="0.1" d="M0 0H1440V800H0V0Z" fill="url(#paint0_linear)"/>
+  
+  <!-- Rice field pattern bottom -->
+  <g opacity="0.06">
+    <path d="M-100 650C0 650 50 680 150 680C250 680 300 650 400 650C500 650 550 680 650 680C750 680 800 650 900 650C1000 650 1050 680 1150 680C1250 680 1300 650 1400 650C1500 650 1550 680 1650 680" stroke="#2E7D32" stroke-width="3"/>
+    <path d="M-100 670C0 670 50 700 150 700C250 700 300 670 400 670C500 670 550 700 650 700C750 700 800 670 900 670C1000 670 1050 700 1150 700C1250 700 1300 670 1400 670C1500 670 1550 700 1650 700" stroke="#2E7D32" stroke-width="3"/>
+    <path d="M-100 690C0 690 50 720 150 720C250 720 300 690 400 690C500 690 550 720 650 720C750 720 800 690 900 690C1000 690 1050 720 1150 720C1250 720 1300 690 1400 690C1500 690 1550 720 1650 720" stroke="#2E7D32" stroke-width="3"/>
+    <path d="M-100 710C0 710 50 740 150 740C250 740 300 710 400 710C500 710 550 740 650 740C750 740 800 710 900 710C1000 710 1050 740 1150 740C1250 740 1300 710 1400 710C1500 710 1550 740 1650 740" stroke="#2E7D32" stroke-width="3"/>
+    <path d="M-100 730C0 730 50 760 150 760C250 760 300 730 400 730C500 730 550 760 650 760C750 760 800 730 900 730C1000 730 1050 760 1150 760C1250 760 1300 730 1400 730C1500 730 1550 760 1650 760" stroke="#2E7D32" stroke-width="3"/>
+  </g>
+
+  <!-- Rice stalks -->
+  <g opacity="0.07">
+    <!-- Rice stalk 1 -->
+    <path d="M200 600L200 500" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M195 520L200 500L205 520" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M190 540L200 500L210 540" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M185 560L200 500L215 560" stroke="#4CAF50" stroke-width="1"/>
+    <!-- Rice stalk 2 -->
+    <path d="M400 620L400 520" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M395 540L400 520L405 540" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M390 560L400 520L410 560" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M385 580L400 520L415 580" stroke="#4CAF50" stroke-width="1"/>
+    <!-- Rice stalk 3 -->
+    <path d="M600 580L600 480" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M595 500L600 480L605 500" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M590 520L600 480L610 520" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M585 540L600 480L615 540" stroke="#4CAF50" stroke-width="1"/>
+    <!-- Rice stalk 4 -->
+    <path d="M800 610L800 510" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M795 530L800 510L805 530" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M790 550L800 510L810 550" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M785 570L800 510L815 570" stroke="#4CAF50" stroke-width="1"/>
+    <!-- Rice stalk 5 -->
+    <path d="M1000 590L1000 490" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M995 510L1000 490L1005 510" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M990 530L1000 490L1010 530" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M985 550L1000 490L1015 550" stroke="#4CAF50" stroke-width="1"/>
+    <!-- Rice stalk 6 -->
+    <path d="M1200 600L1200 500" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M1195 520L1200 500L1205 520" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M1190 540L1200 500L1210 540" stroke="#4CAF50" stroke-width="1"/>
+    <path d="M1185 560L1200 500L1215 560" stroke="#4CAF50" stroke-width="1"/>
+  </g>
+
+  <!-- Sun -->
+  <circle cx="100" cy="100" r="50" fill="url(#paint1_radial)" opacity="0.1"/>
+  
+  <!-- Clouds -->
+  <path d="M300 150C300 122.386 322.386 100 350 100C377.614 100 400 122.386 400 150C400 177.614 377.614 200 350 200C322.386 200 300 177.614 300 150Z" fill="white" opacity="0.06"/>
+  <path d="M350 180C350 152.386 372.386 130 400 130C427.614 130 450 152.386 450 180C450 207.614 427.614 230 400 230C372.386 230 350 207.614 350 180Z" fill="white" opacity="0.06"/>
+  <path d="M400 150C400 122.386 422.386 100 450 100C477.614 100 500 122.386 500 150C500 177.614 477.614 200 450 200C422.386 200 400 177.614 400 150Z" fill="white" opacity="0.06"/>
+  
+  <path d="M800 120C800 92.3858 822.386 70 850 70C877.614 70 900 92.3858 900 120C900 147.614 877.614 170 850 170C822.386 170 800 147.614 800 120Z" fill="white" opacity="0.06"/>
+  <path d="M850 150C850 122.386 872.386 100 900 100C927.614 100 950 122.386 950 150C950 177.614 927.614 200 900 200C872.386 200 850 177.614 850 150Z" fill="white" opacity="0.06"/>
+  <path d="M900 120C900 92.3858 922.386 70 950 70C977.614 70 1000 92.3858 1000 120C1000 147.614 977.614 170 950 170C922.386 170 900 147.614 900 120Z" fill="white" opacity="0.06"/>
+  
+  <!-- Subtle grain texture -->
+  <filter id="noise">
+    <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="4" stitchTiles="stitch" result="turbulence"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 0.1 0 0 0 0 0.3 0 0 0 0 0.1 0 0 0 0.03 0" result="colormatrix"/>
+  </filter>
+  <rect width="100%" height="100%" filter="url(#noise)" opacity="0.02"/>
+  
+  <!-- Gradient definitions -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="720" y1="0" x2="720" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4CAF50" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#4CAF50" stop-opacity="0.3"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 100) rotate(90) scale(50)">
+      <stop stop-color="#FDB813" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#FDB813" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
