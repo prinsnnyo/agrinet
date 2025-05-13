@@ -7,7 +7,7 @@ import { IOSPageHeader } from "@/components/ios-page-header"
 export default function Marketplace() {
   return (
     <div className="min-h-screen bg-marketplace relative z-10">
-      <div className="p-5 max-w-md mx-auto backdrop-blur-sm rounded-lg shadow-lg">
+      <div className="p-5 pb-20 max-w-md mx-auto backdrop-blur-sm rounded-lg shadow-lg">
         <IOSPageHeader title="Marketplace" backLink="/dashboard" />
 
       <div className="flex gap-2 mb-4">

@@ -16,11 +16,9 @@ export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
 
   // Force consistency between server and initial client render
   // This ensures we don't get hydration mismatches
-  const initialRender = !mounted ? (
-    <div className="invisible">{children}</div>
-  ) : (
-    children
-  )
+  if (!mounted) {
+    return <>{children}</>
+  }
 
-  return <NextThemesProvider {...props}>{initialRender}</NextThemesProvider>
+  return <NextThemesProvider {...props}>{children}</NextThemesProvider>
 }
